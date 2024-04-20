@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711901305 source:c:\users\ryryr\onedrive\Документы\codeblocksprojects\17.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1711900967 c:\users\ryryr\onedrive\Документы\codeblocksprojects\17.1\header.h
+
+1711901286 source:c:\users\ryryr\onedrive\Документы\codeblocksprojects\17.1\functions.c
+	<stddef.h>
+
