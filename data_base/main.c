@@ -148,5 +148,4 @@ int main() {
     destroy(g);
     return EXIT_FAILURE;
 }
-    return EXIT_FAILURE;
-}
+
