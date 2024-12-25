@@ -11,12 +11,11 @@ int main() {
     setlocale(LC_CTYPE, "Russian");
 
     char expression[100];
-    printf("Введите выражение в обратной польской записи: ");
+    printf("Р’РІРµРґРёС‚Рµ РІС‹СЂР°Р¶РµРЅРёРµ РІ РѕР±СЂР°С‚РЅРѕР№ РїРѕР»СЊСЃРєРѕР№ Р·Р°РїРёСЃРё: ");
     fgets(expression, 100, stdin);
 
     double result = evaluateRPN(expression);
-    printf("Результат: %.2f\n", result);
+    printf("Р РµР·СѓР»СЊС‚Р°С‚: %.2f\n", result);
 
-    getch();
     return 0;
 }
